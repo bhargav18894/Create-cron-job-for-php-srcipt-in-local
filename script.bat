@@ -1,0 +1,1 @@
+"D:\xampp\php\php.exe" -f "D:\xampp\htdocs\demos\cronjob\my_process.php"
